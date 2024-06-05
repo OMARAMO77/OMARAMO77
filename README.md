@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a passionate developer and lifelong learner. Welcome to my GitHub profile!
 
 <!--
 **OMARAMO77/OMARAMO77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
