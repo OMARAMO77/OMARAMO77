@@ -49,35 +49,6 @@ A full-stack application for browsing, booking, and renting vehicles, built with
 
 ### GitHub Stats
 
-### ?? GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/OMARAMO77">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OMARAMO77&show_icons=true&theme=radical&hide_border=true&count_private=false" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMARAMO77&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
-</p>
-
----
-
-2222222222222222
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/OMARAMO77?label=Stars&style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/followers/OMARAMO77?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://komarev.com/ghpvc/?username=OMARAMO77&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
-
-
-3333333333333333333
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMARAMO77&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-
-44444444444444444
-
 
 <p align="center">
   <a href="https://github.com/OMARAMO77">
