@@ -47,14 +47,6 @@ A full-stack application for browsing, booking, and renting vehicles, built with
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMARAMO77&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
----
-
 ### Let's Connect!
 
 I'm always open to discussing new projects, opportunities, and ideas.
