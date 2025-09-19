@@ -53,8 +53,8 @@ A full-stack application for browsing, booking, and renting vehicles, built with
 
 <p align="center">
   <a href="https://github.com/your-username">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OMARAMO77&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMARAMO77&theme=radical&hide_border=true&layout=compact&langs_count=8" />
   </a>
 </p>
 
