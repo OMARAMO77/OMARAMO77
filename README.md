@@ -49,21 +49,23 @@ A full-stack application for browsing, booking, and renting vehicles, built with
 
 ### GitHub Stats
 
-
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMARAMO77&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+  
+  <a href="https://github.com/OMARAMO77">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OMARAMO77&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMARAMO77&theme=radical&hide_border=true&layout=compact&langs_count=8&exclude_repo=github-readme-stats" />
   </a>
+  
+  <a href="https://github.com/OMARAMO77">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OMARAMO77&theme=radical&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" />
+  </a>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OMARAMO77&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <a href="https://github.com/OMARAMO77">
+    <img src="https://github-profile-trophy.vercel.app/?username=OMARAMO77&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMARAMO77&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
