@@ -49,13 +49,19 @@ A full-stack application for browsing, booking, and renting vehicles, built with
 
 ### GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/OMARAMO77">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OMARAMO77&show_icons=true&theme=radical&hide_border=true&count_private=false" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/OMARAMO77">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OMARAMO77&show_icons=true&theme=radical&hide_border=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OMARAMO77&theme=radical&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMARAMO77&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 </p>
+
+
 ---
 
 ### Let's Connect!
