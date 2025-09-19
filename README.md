@@ -49,7 +49,6 @@ A full-stack application for browsing, booking, and renting vehicles, built with
 
 ### ?? GitHub Stats
 
-*(This section is optional but visually appealing. It will automatically populate once you push code.)*
 
 <p align="center">
   <a href="https://github.com/your-username">
