@@ -47,7 +47,7 @@ A full-stack application for browsing, booking, and renting vehicles, built with
 
 ---
 
-### ?? GitHub Stats
+### GitHub Stats
 
 
 <p align="center">
