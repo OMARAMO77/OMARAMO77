@@ -74,6 +74,11 @@ A full-stack application for browsing, booking, and renting vehicles, built with
 
 I'm always open to discussing new projects, opportunities, and ideas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-achkir-60b506384)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar0642624692@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/OmarKnight123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/omar-achkir-60b506384)
+[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?logo=gmail&style=for-the-badge)](mailto:omar0642624692@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?logo=twitter&style=for-the-badge)](https://x.com/OmarKnight123)
+
+## My Resume
+
+[![Resume PDF](https://img.shields.io/badge/PDF_Resume-View-%23000000?logo=adobe-acrobat-reader&style=for-the-badge)](https://github.com/OMARAMO77/resume/omarachkir_resume.pdf)
+[![Resume GitHub](https://img.shields.io/badge/GitHub_Resume-View-%23181717?logo=github&style=for-the-badge)](https://github.com/OMARAMO77/resume)
