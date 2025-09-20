@@ -78,7 +78,7 @@ I'm always open to discussing new projects, opportunities, and ideas.
 [![Email](https://img.shields.io/badge/Email-Contact-%23D14836?logo=gmail&style=for-the-badge)](mailto:omar0642624692@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?logo=twitter&style=for-the-badge)](https://x.com/OmarKnight123)
 
-## My Resume
+### My Resume
 
 [![Resume PDF](https://img.shields.io/badge/PDF_Resume-View-%23000000?logo=adobe-acrobat-reader&style=for-the-badge)](https://github.com/OMARAMO77/resume/omarachkir_resume.pdf)
 [![Resume GitHub](https://img.shields.io/badge/GitHub_Resume-View-%23181717?logo=github&style=for-the-badge)](https://github.com/OMARAMO77/resume)
