@@ -80,5 +80,5 @@ I'm always open to discussing new projects, opportunities, and ideas.
 
 ### My Resume
 
-[![Resume PDF](https://img.shields.io/badge/PDF_Resume-View-%23000000?logo=adobe-acrobat-reader&style=for-the-badge)](https://github.com/OMARAMO77/resume/blob/master/omarachkir_resume.pdf)
+[![Resume PDF](https://img.shields.io/badge/PDF_Resume-View-%23000000?logo=adobe-acrobat-reader&style=for-the-badge)](https://drive.google.com/file/d/12CkjpBGsa4kc0rN6dKlASQ3RpO51QyIH/preview)
 [![Resume GitHub](https://img.shields.io/badge/GitHub_Resume-View-%23181717?logo=github&style=for-the-badge)](https://github.com/OMARAMO77/resume)
