@@ -76,7 +76,7 @@ I'm always open to discussing new projects, opportunities, and ideas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/omar-achkir-60b506384)
 [![Email](https://img.shields.io/badge/Email-Contact-%23D14836?logo=gmail&style=for-the-badge)](mailto:omar0642624692@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?logo=twitter&style=for-the-badge)](https://x.com/OmarKnight123)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?logo=twitter&style=for-the-badge)](https://x.com/OmarKnight123).
 
 ### My Resume
 
